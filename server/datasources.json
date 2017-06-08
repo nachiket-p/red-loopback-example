@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory",
+    "file": ".data/mydata.json"
+  },
+  "mongo": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "lb-red-demo",
+    "password": "",
+    "name": "mongo",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
